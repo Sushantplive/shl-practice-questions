@@ -1,1 +1,33 @@
-ggg
+
+✅ Preparation Strategy
+JavaScript
+
+Revise ES6+ features: let/const, destructuring, rest/spread, arrow functions, promises, async/await.
+Practice event loop & async order questions.
+Brush up array/object methods (map, filter, reduce, find, forEach).
+
+TypeScript
+
+Review core type system (interfaces, types, enums, generics, union/intersection, type narrowing).
+Practice converting simple JS to TS.
+Understand utility types (Partial, Pick, Omit, etc.).
+
+ReactJS
+
+Focus on hooks (useState, useEffect, useContext, useReducer, useMemo/useCallback).
+Understand virtual DOM and reconciliation basics.
+Make sure you can write a small functional component fast.
+
+Coding Practice
+
+Use platforms like:
+LeetCode (easy/medium JS)
+HackerRank (JavaScript/React assessments)
+TypeScript playground for fixing type errors.
+
+🎯 Key Advice
+
+Time is limited → practice speed + accuracy.
+Read carefully → SHL often puts in trick options (subtle differences in code).
+Stick to clean, readable solutions, not hacky one-liners.
+For React, focus on functional components with hooks (class components are rarely tested now).
